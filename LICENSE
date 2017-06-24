@@ -1,3 +1,8 @@
 how are you
 create a new branch is quickly and simple
 create a branch is able to manage
+#include <stdio.h>
+int main(){
+printf("hello,everyone\n");
+return 0;
+}
