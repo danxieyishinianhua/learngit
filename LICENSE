@@ -3,6 +3,7 @@ create a new branch is quickly and simple
 create a branch is able to manage
 #include <stdio.h>
 int main(){
+printf("are you ok?\n");
 printf("hello,everyone\n");
 return 0;
 }
